@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47f8f6a5e3c910f4fb5feef524aad4b0, type: 3}
+  m_Name: Performance
+  m_EditorClassIdentifier: 
+  items:
+  - title: Awesome
+    start: 90
+    end: 100
+    color: {r: 0, g: 0.6385703, b: 1, a: 1}
+    sideEffects:
+    - type: 4
+      sideEffect: 2
+      value: 20
+  - title: Nice
+    start: 70
+    end: 90
+    color: {r: 0, g: 0.15386888, b: 0.764151, a: 1}
+    sideEffects:
+    - type: 4
+      sideEffect: 2
+      value: 10
+  - title: Good
+    start: 50
+    end: 70
+    color: {r: 1, g: 0.7330102, b: 0, a: 1}
+    sideEffects:
+    - type: 4
+      sideEffect: 1
+      value: 5
+  - title: Bad
+    start: 20
+    end: 50
+    color: {r: 1, g: 0.5185516, b: 0, a: 1}
+    sideEffects:
+    - type: 4
+      sideEffect: 1
+      value: 10
+  - title: Critical!
+    start: 0
+    end: 20
+    color: {r: 1, g: 0, b: 0, a: 1}
+    sideEffects:
+    - type: 4
+      sideEffect: 1
+      value: 20

@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47f8f6a5e3c910f4fb5feef524aad4b0, type: 3}
+  m_Name: Temperature
+  m_EditorClassIdentifier: 
+  items:
+  - title: Awesome
+    start: 0
+    end: 30
+    color: {r: 0, g: 0.6385703, b: 1, a: 1}
+    sideEffects: []
+  - title: Good
+    start: 30
+    end: 60
+    color: {r: 0, g: 0.15386888, b: 0.764151, a: 1}
+    sideEffects: []
+  - title: Hot!
+    start: 60
+    end: 80
+    color: {r: 1, g: 0.7330102, b: 0, a: 1}
+    sideEffects:
+    - type: 5
+      sideEffect: 3
+      value: 1
+    - type: 5
+      sideEffect: 1
+      value: 3
+  - title: Very Hot!!!
+    start: 80
+    end: 90
+    color: {r: 1, g: 0.5185516, b: 0, a: 1}
+    sideEffects:
+    - type: 5
+      sideEffect: 3
+      value: 10
+    - type: 5
+      sideEffect: 1
+      value: 4
+  - title: HOTTEST!!!
+    start: 80
+    end: 100
+    color: {r: 1, g: 0, b: 0, a: 1}
+    sideEffects:
+    - type: 5
+      sideEffect: 3
+      value: 10
+    - type: 5
+      sideEffect: 1
+      value: 5

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 426a77fa514b4ab45ad1195a38fc7b7e, type: 3}
+  m_Name: Level
+  m_EditorClassIdentifier: 
+  levelTitle: Everything perfect
+  machinePieces:
+  - type: 4
+    initPerformancePercent: 100
+    initTemperature: 20
+    wearDownDecrement: 0
+    autoRecoveryIncrement: 0
+  - type: 1
+    initPerformancePercent: 100
+    initTemperature: 20
+    wearDownDecrement: 0
+    autoRecoveryIncrement: 0
+  - type: 2
+    initPerformancePercent: 100
+    initTemperature: 20
+    wearDownDecrement: 0
+    autoRecoveryIncrement: 0
+  - type: 3
+    initPerformancePercent: 100
+    initTemperature: 20
+    wearDownDecrement: 0
+    autoRecoveryIncrement: 0

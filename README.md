@@ -1,4 +1,7 @@
 <h3>Prototype game made for GMTK Game Jam 2023, game made in 48 hours from the conception of the idea to publication.<br><br>You are not the player, you are the computer of a player, now you have to work hard to keep the game running!</h3>
+
+Jogue agora em: <a href="https://joneyjs.itch.io/game-machine" target="_blank">Itch.io "Game Machine"</a>
+
 <h3>The Game</h3>
 <p><strong>John Ney</strong> got a new computer to play his favorite game (Six Faces Overpower), but it has a peculiarity, it is a <strong>manual computer</strong>, so you<strong> needs to be a computer</strong> to&nbsp;<strong>keep it running</strong> while John plays his game.<br><br><img width="200px" src="https://img.itch.zone/aW1nLzEyNzI0MzgyLnBuZw==/original/0uOPz2.png">
 <img width="200px" src="https://img.itch.zone/aW1nLzEyNzI0NDQzLnBuZw==/original/0vXcqE.png"><br><br></p>
